@@ -1,0 +1,34 @@
+{
+  "Player": {
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "best_score": 23,
+    "games": [
+      {
+        "timestamp": "2026-01-18T13:29:27.260307",
+        "difficulty": "medium",
+        "won": false,
+        "score": 23,
+        "attempts_used": 7,
+        "secret_number": 86
+      }
+    ]
+  },
+  "raj": {
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "best_score": 14,
+    "games": [
+      {
+        "timestamp": "2026-01-18T13:31:37.637923",
+        "difficulty": "easy",
+        "won": false,
+        "score": 14,
+        "attempts_used": 10,
+        "secret_number": 22
+      }
+    ]
+  }
+}
